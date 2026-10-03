@@ -25,3 +25,7 @@ if botao_cadastrar:
 
 st.write('## Vendas cadastradas')
 st.dataframe(tabela)
+
+st.write('## Dashboard')
+faturamento = tabela['valor'].sum()
+st.metric('## Faturamento total', f'R${faturamento}')

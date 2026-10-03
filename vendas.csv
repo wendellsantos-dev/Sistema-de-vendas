@@ -1,3 +1,5 @@
 data,vendedor,produto,quantidade,valor
 2026-10-02,Carla,celular,3,10000.0
 2026-10-02,Carla,Fone,1,50.0
+2026-10-02,Bruno,Notebook,5,20000.0
+2026-10-02,Ana,Fone,5,200.0
